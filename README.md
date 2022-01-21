@@ -7,7 +7,9 @@ Brand Sales Associate @ Banana Republic
 Member @ York University Computer Science Hub (https://www.facebook.com/thecshub/)
 
 🌱 I’m currently learning C and RISC-V
+
 🤔 I’m looking for softwar engineer co-op opportunities
+
 📫 Reach me at my email: tarunb4@my.yorku.ca or Linkedin: https://www.linkedin.com/in/tarun-bhardwaj4-/
 
 <!--
