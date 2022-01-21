@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tarun Bhardwaj and I am a second year Computer Science student at York University.
+### My name is Tarun Bhardwaj and I am a second year Computer Science student at York University.
 
 
 <!--
