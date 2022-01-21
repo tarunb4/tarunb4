@@ -2,6 +2,13 @@
 
 ### My name is Tarun Bhardwaj and I am a second year Computer Science student at York University.
 
+Brand Sales Associate @ Banana Republic
+
+Member @ York University Computer Science Hub (https://www.facebook.com/thecshub/)
+
+🌱 I’m currently learning C and RISC-V
+🤔 I’m looking for softwar engineer co-op opportunities
+📫 Reach me at my email: tarunb4@my.yorku.ca or Linkedin: https://www.linkedin.com/in/tarun-bhardwaj4-/
 
 <!--
 **tarunb4/tarunb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
