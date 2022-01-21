@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Tarun Bhardwaj and I am a second year Computer Science student at York University.
+
+
 <!--
 **tarunb4/tarunb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
