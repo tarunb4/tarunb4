@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### My name is Tarun Bhardwaj and I am a second year Computer Science student at York University.
+### My name is Tarun Bhardwaj and I am a third year Computer Science student at York University.
 
 Brand Sales Associate @ Banana Republic
 
 Member @ York University Computer Science Hub (https://www.facebook.com/thecshub/)
 
-🌱 I’m currently learning C and RISC-V
+🌱 I’m currently learning React Native and JavaScript
 
 🤔 I’m looking for software engineer co-op opportunities
 
