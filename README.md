@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Tarun Bhardwaj and I am a third year Computer Science student at York University.
+### My name is Tarun Bhardwaj and I am a fourth year Computer Science student at York University.
 
 Brand Sales Associate @ Banana Republic
 
