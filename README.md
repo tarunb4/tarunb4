@@ -2,7 +2,7 @@
 
 ### My name is Tarun Bhardwaj and I am a fourth year Computer Science student at York University.
 
-Brand Sales Associate @ Banana Republic
+Acting Lead & Daily Operations Manager @ Banana Republic
 
 Member @ York University Computer Science Hub (https://www.facebook.com/thecshub/)
 
