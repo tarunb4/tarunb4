@@ -10,7 +10,7 @@ Member @ York University Computer Science Hub (https://www.facebook.com/thecshub
 
 🤔 I’m looking for software engineer co-op opportunities
 
-📫 Reach me at my email: tarunb4@my.yorku.ca or Linkedin: https://www.linkedin.com/in/tarun-bhardwaj4-/
+📫 Reach me at my email: tarun14325@gmail.com or Linkedin: https://www.linkedin.com/in/tarun-bhardwaj4-/
 
 <!--
 **tarunb4/tarunb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
