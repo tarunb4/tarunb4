@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Tarun Bhardwaj and I am a fourth year Computer Science student at York University.
+### My name is Tarun Bhardwaj and I Graduated from York University Studying Computer Science.
 
 Acting Lead & Daily Operations Manager @ Banana Republic
 
