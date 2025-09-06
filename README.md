@@ -2,7 +2,7 @@
 
 ### My name is Tarun Bhardwaj and I Graduated from York University Studying Computer Science.
 
-Acting Lead & Daily Operations Manager @ Banana Republic
+IT Support Technician @ Gap Inc.
 
 Member @ York University Computer Science Hub (https://www.facebook.com/thecshub/)
 
